@@ -35,6 +35,9 @@ Hi there! I'm a passionate frontend developer who loves building beautiful and r
 ## 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Deztini&show_icons=true&theme=radical)
+
+<br />
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Deztini&layout=compact&theme=radical)
 
 
@@ -42,4 +45,4 @@ Hi there! I'm a passionate frontend developer who loves building beautiful and r
 
 ## 📫 How to reach me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/AgbatorDestiny)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/agbator-destiny)
