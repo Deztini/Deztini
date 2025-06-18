@@ -34,8 +34,9 @@ Hi there! I'm a passionate frontend developer who loves building beautiful and r
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-Deztini&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Deztini&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Deztini&layout=compact&theme=radical)
+
 
 ---
 
