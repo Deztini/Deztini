@@ -45,4 +45,4 @@ Hi there! I'm a passionate frontend developer who loves building beautiful and r
 
 ## 📫 How to reach me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/agbator-destiny)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/agbator-destiny-bba7b62ab/)
