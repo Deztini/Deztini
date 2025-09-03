@@ -13,10 +13,10 @@ Hi there! I'm a passionate frontend developer and mobile app developer who loves
   - React Native
 
 - 🎯 **Focus**:  
-  I'm focused on designing user-friendly interfaces and continuously improving my frontend skills.
+  I'm focused on designing user-friendly interfaces and continuously improving my frontend skills and learning more on backend.
 
 - 🚀 **Currently Working On**:  
-  - learning Node.js, MongoDB, API1s
+  - learning Node.js, MongoDB, APIs
 
 - 🌱 **Learning Goals**:  
   - Exploring backend development  (Node.js, MongoDB, APIs)
