@@ -1,6 +1,6 @@
 # 👋 About Me
 
-Hi there! I'm a passionate fullstack developer and mobile app developer who loves building beautiful and responsive web applications.
+Hi there! I'm a passionate fullstack developer and mobile app developer who loves building beautiful and responsive applications.
 
 
 ## 🌐 Socials:
